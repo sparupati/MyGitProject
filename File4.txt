@@ -1,1 +1,2 @@
 Welcome to Git remote repository
+this statement made by User 2
