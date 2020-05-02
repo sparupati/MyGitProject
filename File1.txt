@@ -4,5 +4,3 @@ file 1 is not adding
 for(int 1=0;i>5;i++) {
 sysout(i)
 }
-change2
-chnages3
