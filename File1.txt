@@ -1,6 +1,6 @@
 Welcome to Hello wrold!
-file 1 is not adding
+Change1 --> fixed
+Change2 --> fixed
+chnage3 --> fixed
 
-for(int 1=0;i>5;i++) {
-sysout(i)
-}
+All bugs got fixed 
