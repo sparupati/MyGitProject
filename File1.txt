@@ -1,6 +1,8 @@
 Welcome to Hello wrold!
-Change1 --> fixed
+Idea change 1 updated
 Change2 --> fixed
 chnage3 --> fixed
 
 All bugs got fixed 
+
+Idea good
